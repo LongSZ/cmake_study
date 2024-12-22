@@ -1,0 +1,7 @@
+/root/Desktop/c_cpp_test/test_cmake03/build/CMakeFiles/install/strip.dir
+/root/Desktop/c_cpp_test/test_cmake03/build/CMakeFiles/edit_cache.dir
+/root/Desktop/c_cpp_test/test_cmake03/build/CMakeFiles/rebuild_cache.dir
+/root/Desktop/c_cpp_test/test_cmake03/build/CMakeFiles/list_install_components.dir
+/root/Desktop/c_cpp_test/test_cmake03/build/CMakeFiles/testSO.dir
+/root/Desktop/c_cpp_test/test_cmake03/build/CMakeFiles/install/local.dir
+/root/Desktop/c_cpp_test/test_cmake03/build/CMakeFiles/install.dir

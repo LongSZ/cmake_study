@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtestSO.a  CMakeFiles/testSO.dir/src/main.cpp.o CMakeFiles/testSO.dir/src/student.cpp.o
+/usr/bin/ranlib libtestSO.a

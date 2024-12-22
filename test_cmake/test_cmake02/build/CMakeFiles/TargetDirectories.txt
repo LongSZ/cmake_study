@@ -1,0 +1,3 @@
+/root/Desktop/c_cpp_test/test_cmake02/build/CMakeFiles/rebuild_cache.dir
+/root/Desktop/c_cpp_test/test_cmake02/build/CMakeFiles/dir_test.dir
+/root/Desktop/c_cpp_test/test_cmake02/build/CMakeFiles/edit_cache.dir

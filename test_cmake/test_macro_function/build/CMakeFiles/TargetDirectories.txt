@@ -1,0 +1,2 @@
+/root/Desktop/c_cpp_test/test_pro/test_cmake/test_macro_function/build/CMakeFiles/rebuild_cache.dir
+/root/Desktop/c_cpp_test/test_pro/test_cmake/test_macro_function/build/CMakeFiles/edit_cache.dir

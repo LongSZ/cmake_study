@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mainapp.dir/src/main.cpp.o  -o mainapp  -L/root/Desktop/c_cpp_test/test_cmake05/build -Wl,-rpath,/root/Desktop/c_cpp_test/test_cmake05/build -Wl,-Bstatic -ltestSO -Wl,-Bdynamic 
